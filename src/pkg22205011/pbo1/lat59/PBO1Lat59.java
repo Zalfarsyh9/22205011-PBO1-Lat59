@@ -11,7 +11,7 @@ package pkg22205011.pbo1.lat59;
  * Nim : 22205011
  * Jurusan : Teknik Informatika 
  * Mata kuliah : PBO 1
- * Deskripsi : membuat program g
+ * Deskripsi : membuat program gambar detective conan
  */
 public class PBO1Lat59 {
 
